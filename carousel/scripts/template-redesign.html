@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* Before/after redesign frame: identical frame on every slide, the design image does the talking.
+     Image box is fixed (same crop + position on before and after) so swiping feels like a reveal. */
+  :root{
+    --bg:#F5F1EA; --ink:#1A1A1A; --red:#E63946; --green:#2A9D8F;
+    --font:'Poppins', 'Noto Color Emoji', sans-serif;
+    --pad:56px; --img:820px; --img-top:356px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:100vw;height:100vh}
+  .stage{position:relative;width:100vw;height:100vh;overflow:hidden;background:var(--bg);font-family:var(--font);color:var(--ink)}
+
+  .label{position:absolute;top:var(--pad);left:var(--pad);color:#fff;font-weight:700;font-size:24px;letter-spacing:.14em;
+         padding:10px 24px;border-radius:999px}
+  .stage.before .label{background:var(--red)}
+  .stage.after  .label{background:var(--green)}
+
+  .head{position:absolute;left:var(--pad);right:var(--pad);top:132px;font-weight:700;font-size:var(--fs,54px);line-height:1.16;letter-spacing:-.01em}
+  .stage.hook .head,.stage.cta .head{top:var(--pad)}
+  .sub{position:absolute;left:var(--pad);right:var(--pad);font-weight:400;font-size:32px;line-height:1.3;color:#3a3a3a}
+
+  /* the design image: centred, ~76% width, soft shadow; tilt only on "before" */
+  .content{position:absolute;left:50%;top:var(--img-top);width:var(--img);height:var(--img);transform:translateX(-50%)}
+  .shot{width:100%;height:100%;border-radius:10px;overflow:hidden;background:#ddd;
+        box-shadow:0 22px 50px rgba(26,26,26,.22),0 4px 12px rgba(26,26,26,.12)}
+  .stage.before .shot{transform:rotate(-1.5deg)}
+  .shot img{display:block;width:100%;height:100%;object-fit:cover}
+  .shot .cap{display:none}
+
+  /* principle band (after slides) */
+  .band{position:absolute;left:0;right:0;bottom:0;height:128px;background:var(--green);display:flex;align-items:center;
+        padding:0 var(--pad);color:#fff;font-weight:700;font-size:44px;letter-spacing:-.01em}
+  .stage:not(.after) .band{display:none}
+
+  .handle{position:absolute;right:var(--pad);bottom:40px;font-weight:600;font-size:22px;color:#6b6b6b;display:flex;gap:16px;align-items:center}
+  .stage.after .handle{color:#fff;bottom:47px}
+  .swipe{font-weight:700;font-size:30px;line-height:1}
+  .stage.noswipe .swipe{display:none}
+
+  /* hook: red rubber stamp across the 2x2 grid */
+  .stamp{display:none;position:absolute;left:50%;top:calc(var(--img-top) + var(--img)/2);transform:translate(-50%,-50%) rotate(-12deg);
+         color:var(--red);border:10px solid var(--red);border-radius:18px;padding:6px 34px 12px;font-weight:800;font-size:124px;
+         letter-spacing:.02em;background:rgba(245,241,234,.82);box-shadow:0 10px 30px rgba(0,0,0,.18);z-index:6}
+  .stage.hook .stamp{display:block}
+
+  /* CTA on dark brand background */
+  .stage.cta{background:var(--ink);color:var(--bg)}
+  .stage.cta .sub{color:#d9d4cb}
+  .stage.cta .handle{color:#bdb7ad}
+  .kw{display:inline-block;background:var(--green);color:#fff;font-weight:800;padding:0 14px 4px;border-radius:10px}
+  [data-optional].empty{display:none}
+</style>
+</head>
+<body>
+  <div class="stage __SLIDECLASS__" style="__STAGESTYLE__">
+    <div class="label" data-optional>__TOPIC_TAG__</div>
+    <div class="head" data-optional>__HEADLINE__</div>
+    <div class="sub" data-optional style="top:var(--sub-top,250px)">__CAPTION__</div>
+    <div class="content">__CONTENT__</div>
+    <div class="stamp">REDESIGN?</div>
+    <div class="band" data-optional>__HERO_PHRASE__</div>
+    <div class="handle"><span>__HANDLE__</span><span class="swipe">→</span></div>
+  </div>
+  <script>
+    document.querySelectorAll('[data-optional]').forEach(function(el){
+      if(!el.textContent.trim()) el.classList.add('empty');
+    });
+    // CTA keyword highlight: wrap REDESIGN in a pill
+    document.querySelectorAll('.stage.cta .sub').forEach(function(el){
+      el.innerHTML = el.innerHTML.replace('REDESIGN','<span class="kw">REDESIGN</span>');
+    });
+  </script>
+</body>
+</html>
