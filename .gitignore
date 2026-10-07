@@ -1,0 +1,4 @@
+.env
+carousel/runs/*
+!carousel/runs/.gitkeep
+__pycache__/
