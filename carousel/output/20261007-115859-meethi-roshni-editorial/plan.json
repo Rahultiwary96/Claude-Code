@@ -1,0 +1,101 @@
+{
+  "slug": "20261007-115859-meethi-roshni-editorial",
+  "topic": "Built an entire brand with AI \u2014 Meethi Roshni (editorial format)",
+  "created": "20261007-115859",
+  "brand_label": "",
+  "handle": "@socialcanvasbyrahul",
+  "canvas": {
+    "w": 1080,
+    "h": 1440,
+    "aspect": "3:4"
+  },
+  "slides": [
+    {
+      "index": 1,
+      "role": "hook",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/cover.png",
+      "arcads_asset": "631a8022-fe58-4353-8e81-a0ae6d2a4b86",
+      "headline": "I built a",
+      "hero_phrase": "Diwali Mithai Brand",
+      "caption": "with AI",
+      "logo": true,
+      "style": "--copy-top:67%",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "role": "body",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/brand_board.png",
+      "arcads_asset": "bbce090d-7a0f-47d8-a004-9df9c3db3f2d",
+      "headline": "",
+      "hero_phrase": "",
+      "caption": "",
+      "logo": false,
+      "class": "light",
+      "style": "",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide02.png"
+    },
+    {
+      "index": 3,
+      "role": "body",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/box_hero.png",
+      "arcads_asset": "bca5e1c9-9132-47cf-b30f-0c2b7704fbd6",
+      "headline": "",
+      "hero_phrase": "Light up Diwali, sweetly.",
+      "caption": "",
+      "logo": false,
+      "style": "--copy-top:9%;--fs:62px",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide03.png"
+    },
+    {
+      "index": 4,
+      "role": "body",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/hamper_life.png",
+      "arcads_asset": "422ef00e-8918-4381-8c8b-c7213d612a0b",
+      "headline": "",
+      "hero_phrase": "",
+      "caption": "",
+      "logo": false,
+      "style": "",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide04.png"
+    },
+    {
+      "index": 5,
+      "role": "body",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/store_night.png",
+      "arcads_asset": "252da220-69a0-42db-9b68-135f2253804d",
+      "headline": "",
+      "hero_phrase": "",
+      "caption": "",
+      "logo": false,
+      "style": "",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide05.png"
+    },
+    {
+      "index": 6,
+      "role": "body",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/ig_ad.png",
+      "arcads_asset": "0e5012b1-9fb2-4e33-ad31-7e5103739e6e",
+      "headline": "",
+      "hero_phrase": "",
+      "caption": "",
+      "logo": false,
+      "class": "light",
+      "style": "",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide06.png"
+    },
+    {
+      "index": 7,
+      "role": "cta",
+      "bg_file": "/home/user/Claude-Code/carousel/runs/20261007-115859-meethi-roshni-editorial/media/cta.png",
+      "arcads_asset": "354415d3-2505-4a0b-9c6d-354fdb6473d7",
+      "headline": "Want the prompts?",
+      "hero_phrase": "Comment \u201cMITHAI\u201d",
+      "caption": "and I\u2019ll DM you",
+      "logo": false,
+      "style": "--copy-top:20%",
+      "out_file": "carousel/runs/20261007-115859-meethi-roshni-editorial/slides/slide07.png"
+    }
+  ],
+  "template": "template-editorial.html"
+}

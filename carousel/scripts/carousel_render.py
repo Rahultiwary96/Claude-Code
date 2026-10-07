@@ -129,6 +129,9 @@ def _slide_html(template: str, slide: dict, plan: dict) -> str:
         "__TIMESTAMP__": _esc(slide.get("timestamp", plan.get("timestamp", ""))),
         "__FILMTAG__": _esc(slide.get("filmtag", plan.get("filmtag", ""))),
         "__CAPTION__": _esc(slide.get("caption", "")),
+        # editorial template: extra classes (logo, contain) + inline CSS vars (--copy-top, --fs)
+        "__SLIDECLASS__": _esc(" ".join(filter(None, [slide.get("class", ""), "logo" if slide.get("logo") else ""]))),
+        "__STAGESTYLE__": _esc(slide.get("style", "")),
     }
     html = template
     for k, v in repl.items():
