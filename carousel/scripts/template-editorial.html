@@ -23,6 +23,10 @@
      background:linear-gradient(180deg, rgba(0,0,0,.28) 0%, rgba(0,0,0,0) 14%),
                 linear-gradient(0deg, rgba(0,0,0,.30) 0%, rgba(0,0,0,0) 22%)}
   .stage.contain .scrim{display:none}
+  /* band: fit image to full width at the bottom, fill the top strip with the image's own edge colour (keeps poster text uncropped) */
+  .stage.band{background:var(--bandbg,#111)}
+  .stage.band .bg{background-size:100% auto;background-position:center bottom}
+  .stage.band .scrim{display:none}
 
   .handle{position:absolute;top:var(--pad);left:var(--pad);color:var(--ink);font-weight:700;font-size:25px;
           letter-spacing:-.01em;text-shadow:0 1px 10px rgba(0,0,0,.35);z-index:5}
