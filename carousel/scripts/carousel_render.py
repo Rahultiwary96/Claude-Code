@@ -76,6 +76,17 @@ def build_content(content) -> str:
         title = f'<div class="ctitle">{_esc(content["title"])}</div>' if content.get("title") else ""
         return f'<div class="card">{title}<div class="dial">{segs}</div>{cap}{_notes(content)}</div>'
 
+    if t == "html":
+        # raw, slide-specific markup for templates that lay out their own collage
+        html = content.get("html", "")
+        import carousel_config as cfg
+        for key, rel in (content.get("images") or {}).items():
+            pth = Path(rel)
+            if not pth.is_absolute():
+                pth = cfg.CAROUSEL_ROOT / rel
+            html = html.replace("{" + key + "}", _data_uri(pth) if pth.exists() else "")
+        return html
+
     if t == "chips":
         chips = "".join(f'<span class="chip">{_esc(c)}</span>' for c in content["items"])
         return f'<div class="chips">{chips}</div>'

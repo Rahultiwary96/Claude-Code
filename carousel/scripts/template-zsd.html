@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  /* Zero Se Designer — series frame (notebook page) + paper-cutout collage pieces.
+     Frame is identical on every class; only __CONTENT__ changes. */
+  :root{
+    --page:#F7F4EC; --ink:#1A1A1A; --yellow:#F5C518; --red:#E63946; --green:#2A9D8F; --blue:#2F5BEA;
+    --font:'Poppins','Noto Color Emoji',sans-serif; --pad:56px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:100vw;height:100vh}
+  .stage{position:relative;width:100vw;height:100vh;overflow:hidden;font-family:var(--font);color:var(--ink);
+    background-color:var(--page);
+    background-image:linear-gradient(rgba(26,26,26,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(26,26,26,.055) 1px,transparent 1px);
+    background-size:44px 44px}
+
+  /* ---- series chrome ---- */
+  .classpill{position:absolute;top:44px;left:var(--pad);background:var(--yellow);font-weight:800;font-size:24px;letter-spacing:.12em;
+             padding:9px 22px;border-radius:999px;z-index:20}
+  .series{position:absolute;top:52px;right:var(--pad);font-weight:700;font-size:19px;letter-spacing:.22em;font-variant:small-caps;
+          text-transform:lowercase;z-index:20}
+  .progress{position:absolute;left:0;right:0;bottom:0;height:12px;background:rgba(26,26,26,.08);z-index:20}
+  /* collage mode: full-bleed paper-cutout artwork behind everything, white chrome */
+  .bgimg{position:absolute;inset:0;background-size:cover;background-position:center;z-index:0}
+  .stage.collage .series,.stage.collage .handle{color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.35)}
+  .stage.collage .progress{background:rgba(255,255,255,.35)}
+  .progress i{display:block;height:100%;width:var(--prog,12.5%);background:var(--yellow)}
+  .handle{position:absolute;right:var(--pad);bottom:30px;font-weight:600;font-size:21px;color:#555;z-index:20}
+
+  /* ---- paper-cutout pieces ---- */
+  .layer{position:absolute;inset:0}
+  .abs{position:absolute}
+  .strip{display:inline-block;background:#fff;padding:2px 16px 8px;margin:5px 0;font-weight:700;font-size:var(--fs,58px);line-height:1.15;
+         transform:rotate(var(--r,0deg));box-shadow:3px 4px 0 rgba(26,26,26,.16);white-space:nowrap}
+  .strip.y{background:var(--yellow)} .strip.k{background:var(--ink);color:#fff} .strip.g{background:var(--green);color:#fff}
+  .strip.r{background:var(--red);color:#fff} .strip.b{background:var(--blue);color:#fff}
+  .strip.sm{--fs:34px;font-weight:600;padding:2px 12px 6px}
+  .strip.xs{--fs:26px;font-weight:600;padding:2px 10px 4px}
+  .lines .strip{display:table}
+  .cut{position:absolute;background:#fff;padding:12px;box-shadow:6px 9px 0 rgba(26,26,26,.18),0 18px 40px rgba(26,26,26,.18);transform:rotate(var(--r,0deg))}
+  .cut img{display:block;width:100%;height:100%;object-fit:cover}
+  .tape{position:absolute;width:130px;height:38px;background:rgba(245,197,24,.72);transform:rotate(var(--r,-8deg));z-index:5;
+        box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  .pill{position:absolute;color:#fff;font-weight:800;font-size:24px;letter-spacing:.14em;padding:9px 22px;border-radius:999px;z-index:6;
+        box-shadow:2px 3px 0 rgba(0,0,0,.18)}
+  .pill.red{background:var(--red)} .pill.green{background:var(--green)}
+  .burst{position:absolute;z-index:0}
+  .strike{position:relative}
+  .strike:after{content:"";position:absolute;left:-6px;right:-6px;top:52%;height:9px;background:var(--red);transform:rotate(-3deg);border-radius:4px}
+  .num{position:absolute;width:62px;height:62px;border-radius:50%;background:var(--yellow);border:4px solid var(--ink);font-weight:800;font-size:32px;
+       display:flex;align-items:center;justify-content:center;z-index:8;box-shadow:2px 3px 0 rgba(0,0,0,.2)}
+  .emoji{font-family:'Noto Color Emoji';line-height:1}
+  .card{position:absolute;background:#fff;box-shadow:5px 7px 0 rgba(26,26,26,.16);transform:rotate(var(--r,0deg));padding:22px 24px}
+  .check{display:flex;gap:18px;align-items:center;font-weight:600;font-size:34px;margin:10px 0}
+  .check b{width:44px;height:44px;border:4px solid var(--ink);border-radius:8px;flex:none;display:flex;align-items:center;justify-content:center;font-size:30px}
+  /* clip-path removes box-shadow, so torn pieces get their shadow from a wrapper filter */
+  .sh{position:absolute;filter:drop-shadow(6px 9px 0 rgba(26,26,26,.18)) drop-shadow(0 14px 22px rgba(26,26,26,.14))}
+  .lines{filter:drop-shadow(3px 4px 0 rgba(26,26,26,.18))}
+  svg.arrow{position:absolute;overflow:visible;z-index:7}
+</style>
+</head>
+<body>
+  <div class="stage __SLIDECLASS__" style="__STAGESTYLE__">
+    <div class="bgimg" style="background-image:url('__BG__')"></div>
+    <div class="classpill">__TOPIC_TAG__</div>
+    <div class="series">Zero Se Designer</div>
+    <div class="layer">__CONTENT__</div>
+    <div class="handle">__HANDLE__</div>
+    <div class="progress"><i></i></div>
+  </div>
+  <script>
+    // torn-paper edges: jagged polygon on every .torn element
+    function torn(el, amp){
+      var n=26, pts=[], a=amp||1.6, rnd=function(){return (Math.random()*a).toFixed(2)};
+      for(var i=0;i<=n;i++) pts.push((i*100/n).toFixed(2)+'% '+rnd()+'%');
+      for(var i=0;i<=n;i++) pts.push((100-rnd())+'% '+(i*100/n).toFixed(2)+'%');
+      for(var i=n;i>=0;i--) pts.push((i*100/n).toFixed(2)+'% '+(100-rnd())+'%');
+      for(var i=n;i>=0;i--) pts.push(rnd()+'% '+(i*100/n).toFixed(2)+'%');
+      el.style.clipPath='polygon('+pts.join(',')+')';
+    }
+    document.querySelectorAll('.torn').forEach(function(el){torn(el, parseFloat(el.dataset.amp||'1.4'))});
+    document.querySelectorAll('.strip').forEach(function(el){torn(el, 3.2)});
+  </script>
+</body>
+</html>
