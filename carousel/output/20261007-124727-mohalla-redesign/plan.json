@@ -1,0 +1,165 @@
+{
+  "slug": "20261007-124727-mohalla-redesign",
+  "topic": "Mohalla Redesign \u2014 4 before/after fixes",
+  "created": "20261007-124727",
+  "brand_label": "",
+  "handle": "@socialcanvasbyrahul",
+  "canvas": {
+    "w": 1080,
+    "h": 1350,
+    "aspect": "4:5"
+  },
+  "slides": [
+    {
+      "index": 1,
+      "class": "hook",
+      "topic_tag": "",
+      "headline": "Mohalle ke designs ko maine redesign kiya \ud83d\udc40",
+      "caption": "Last wala dekh ke hasoge",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/grid_before.png"
+      },
+      "style": "--sub-top:258px;--img-top:372px;--img:800px",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "class": "before",
+      "topic_tag": "BEFORE",
+      "headline": "Gupta General Store\u2026 ya Gupta \u201csab kuch milega\u201d store?",
+      "caption": "",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/kirana_before.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide02.png"
+    },
+    {
+      "index": 3,
+      "class": "after",
+      "topic_tag": "AFTER",
+      "headline": "Pehle naam, phir kaam, phir number.",
+      "caption": "",
+      "hero_phrase": "Fix: Hierarchy",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/kirana_after.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide03.png"
+    },
+    {
+      "index": 4,
+      "class": "before",
+      "topic_tag": "BEFORE",
+      "headline": "7 fonts, 4 Ganesh ji, aur naam dhoondhne ke liye magnifying glass chahiye",
+      "caption": "",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/wedding_before.png"
+      },
+      "style": "--fs:48px",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide04.png"
+    },
+    {
+      "index": 5,
+      "class": "after",
+      "topic_tag": "AFTER",
+      "headline": "2 fonts kaafi hain.",
+      "caption": "",
+      "hero_phrase": "Fix: Kam fonts, zyada space",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/wedding_after.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide05.png"
+    },
+    {
+      "index": 6,
+      "class": "before",
+      "topic_tag": "BEFORE",
+      "headline": "12 toppers, 9 courses, 3 phone numbers, 0 cheezein yaad rahi",
+      "caption": "",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/coaching_before.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide06.png"
+    },
+    {
+      "index": 7,
+      "class": "after",
+      "topic_tag": "AFTER",
+      "headline": "Ek topper, ek result, ek message.",
+      "caption": "",
+      "hero_phrase": "Fix: Ek focal point",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/coaching_after.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide07.png"
+    },
+    {
+      "index": 8,
+      "class": "before",
+      "topic_tag": "BEFORE",
+      "headline": "\u201cRoom for rent\u201d likha hai ya treasure map hai?",
+      "caption": "",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/rent_before.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide08.png"
+    },
+    {
+      "index": 9,
+      "class": "after",
+      "topic_tag": "AFTER",
+      "headline": "Jo cheezein saath hain, unhe saath rakho.",
+      "caption": "",
+      "hero_phrase": "Fix: Proximity",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/rent_after.png"
+      },
+      "style": "",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide09.png"
+    },
+    {
+      "index": 10,
+      "class": "cta noswipe",
+      "topic_tag": "",
+      "headline": "Kaunsa redesign best tha?",
+      "caption": "Comment karo REDESIGN aur charon Canva templates DM mein le lo",
+      "hero_phrase": "",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-124727-mohalla-redesign/media/grid_after.png"
+      },
+      "style": "--sub-top:150px;--img-top:372px;--img:800px",
+      "bg_file": null,
+      "out_file": "carousel/runs/20261007-124727-mohalla-redesign/slides/slide10.png"
+    }
+  ],
+  "template": "template-redesign.html"
+}

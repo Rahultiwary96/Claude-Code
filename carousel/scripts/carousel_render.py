@@ -178,12 +178,15 @@ def render(run_dir):
     template = tpl_path.read_text()
 
     slides = plan["slides"]
+    # a plan may pin its own canvas (e.g. 1080x1350); otherwise use the configured default
+    W = int((plan.get("canvas") or {}).get("w") or cfg.CANVAS_W)
+    H = int((plan.get("canvas") or {}).get("h") or cfg.CANVAS_H)
     with sync_playwright() as p:
         import os
         exe = os.getenv("CHROMIUM_PATH")
         browser = p.chromium.launch(executable_path=exe) if exe else p.chromium.launch()
         page = browser.new_page(
-            viewport={"width": cfg.CANVAS_W, "height": cfg.CANVAS_H},
+            viewport={"width": W, "height": H},
             device_scale_factor=cfg.RENDER_SCALE,
         )
         for slide in slides:
@@ -193,7 +196,7 @@ def render(run_dir):
             page.wait_for_timeout(150)  # let fonts settle
             out = out_dir / f"slide{idx:02d}.png"
             page.screenshot(path=str(out), clip={
-                "x": 0, "y": 0, "width": cfg.CANVAS_W, "height": cfg.CANVAS_H})
+                "x": 0, "y": 0, "width": W, "height": H})
             slide["out_file"] = str(out)
             print(f"[slide {idx}] rendered -> {out}")
         browser.close()
