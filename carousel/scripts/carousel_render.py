@@ -92,7 +92,8 @@ def build_content(content) -> str:
             t_ = f'<span class="t">{_esc(content.get("caption",""))}</span>' if content.get("caption") else "<span></span>"
             s_ = f'<span class="s">{_esc(content.get("source",""))}</span>' if content.get("source") else ""
             cap = f'<div class="cap">{t_}{s_}</div>'
-        return f'<figure class="shot"><img src="{uri}" alt="">{cap}</figure>'
+        mh = f' style="--shot-max:{int(content["max_h"])}px"' if content.get("max_h") else ""
+        return f'<figure class="shot"{mh}><img src="{uri}" alt="">{cap}</figure>'
 
     if t == "hero":
         # transparent illustration floating on the background, big + centered
@@ -175,7 +176,9 @@ def render(run_dir):
 
     slides = plan["slides"]
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        import os
+        exe = os.getenv("CHROMIUM_PATH")
+        browser = p.chromium.launch(executable_path=exe) if exe else p.chromium.launch()
         page = browser.new_page(
             viewport={"width": cfg.CANVAS_W, "height": cfg.CANVAS_H},
             device_scale_factor=cfg.RENDER_SCALE,

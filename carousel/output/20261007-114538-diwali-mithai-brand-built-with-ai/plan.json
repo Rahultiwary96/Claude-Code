@@ -1,0 +1,173 @@
+{
+  "slug": "20261007-114538-diwali-mithai-brand-built-with-ai",
+  "topic": "Built an entire brand with AI \u2014 Meethi Roshni, a Diwali mithai brand",
+  "created": "20261007-114538",
+  "brand_label": "SOCIAL CANVAS BY RAHUL \u00b7 2026",
+  "handle": "@socialcanvasbyrahul",
+  "canvas": {
+    "w": 1080,
+    "h": 1440,
+    "aspect": "3:4"
+  },
+  "slides": [
+    {
+      "index": 1,
+      "role": "hook",
+      "topic_tag": "BUILT A BRAND WITH AI",
+      "headline": "I built an entire Diwali mithai brand",
+      "hero_word": "with AI",
+      "subtitle": "Name, box, hamper, shop & ad.",
+      "image_prompt": "Golden-hour meadow with marigolds in the grass. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "90683a1c-f828-482f-95ca-f560a1898002",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg01.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/brand_board.png",
+        "caption": "Meet Meethi Roshni \u2014 \u201csweet light\u201d",
+        "source": "Made with AI \u00b7 concept brand",
+        "max_h": 560
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "role": "body",
+      "topic_tag": "WHY NOW",
+      "headline": "Diwali is India\u2019s biggest",
+      "hero_word": "sweet spot",
+      "subtitle": "",
+      "image_prompt": "Rolling hills with soft clouds. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "93bbe888-7b78-4656-913b-3b1e43b98160",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg02.png",
+      "content": {
+        "type": "stats",
+        "title": "Diwali 2025, by the numbers",
+        "items": [
+          {
+            "value": "\u20b96.05L",
+            "label": "crore in sales (+25% YoY)"
+          },
+          {
+            "value": "5%",
+            "label": "sweets & namkeen"
+          },
+          {
+            "value": "7%",
+            "label": "gift items"
+          }
+        ],
+        "note": [
+          "Diwali 2026 falls on Sunday, 8 November.",
+          "Source: CAIT, Nov 2025 (category share of goods sales)"
+        ]
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide02.png"
+    },
+    {
+      "index": 3,
+      "role": "body",
+      "topic_tag": "STEP 1 \u00b7 PACKAGING",
+      "headline": "First, the signature",
+      "hero_word": "mithai box",
+      "subtitle": "",
+      "image_prompt": "Meadow with pink blossoms. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "26bd2a92-7e95-49aa-b34a-7557e4bc3b09",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg03.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/box.png",
+        "caption": "The signature box",
+        "source": "Made with AI \u00b7 concept brand"
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide03.png"
+    },
+    {
+      "index": 4,
+      "role": "body",
+      "topic_tag": "STEP 2 \u00b7 GIFTING",
+      "headline": "Then a gift hamper",
+      "hero_word": "for Dhanteras",
+      "subtitle": "",
+      "image_prompt": "Hilltop with a bench. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "cd3bf135-ee25-4707-9bee-caf41588fd4c",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg04.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/hamper.png",
+        "caption": "The Dhanteras hamper",
+        "source": "Made with AI \u00b7 concept brand"
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide04.png"
+    },
+    {
+      "index": 5,
+      "role": "body",
+      "topic_tag": "STEP 3 \u00b7 RETAIL",
+      "headline": "Then the storefront",
+      "hero_word": "signage",
+      "subtitle": "",
+      "image_prompt": "Dusk clouds with distant diyas. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "b14b15fb-9bf3-4a3b-ba61-873aaebdc0d5",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg05.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/signage.png",
+        "caption": "Shop signage, Diwali night",
+        "source": "Made with AI \u00b7 concept brand"
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide05.png"
+    },
+    {
+      "index": 6,
+      "role": "body",
+      "topic_tag": "STEP 4 \u00b7 ADS",
+      "headline": "And finally, an Instagram",
+      "hero_word": "ad",
+      "subtitle": "",
+      "image_prompt": "Bright open sky. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "8462036a-07a4-4852-9cbb-6f086714a4d7",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg06.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/ig_ad.png",
+        "caption": "Ready-to-run feed ad",
+        "source": "Made with AI \u00b7 concept brand"
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide06.png"
+    },
+    {
+      "index": 7,
+      "role": "cta",
+      "topic_tag": "YOUR TURN",
+      "headline": "Want the exact prompts?",
+      "hero_word": "Comment",
+      "subtitle": "Comment \u201cMITHAI\u201d and I\u2019ll DM you every prompt.",
+      "image_prompt": "Sunset meadow with glowing diyas. Use the supplied style sheet ONLY as a color, mood, and photographic-style reference. Vertical 4:5. Keep the TOP HALF calm and open for a headline. Absolutely NO text, no letters, no logos, no UI, no panels.",
+      "arcads_asset": "8ff5b110-dc63-4c01-a476-52ac536c6f5c",
+      "bg_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/bg07.png",
+      "content": {
+        "type": "image",
+        "src": "runs/20261007-114538-diwali-mithai-brand-built-with-ai/media/recap.png",
+        "caption": "Box \u00b7 Hamper \u00b7 Signage \u00b7 Ad",
+        "source": "Made with AI \u00b7 concept brand",
+        "max_h": 560
+      },
+      "mascot": null,
+      "out_file": "carousel/runs/20261007-114538-diwali-mithai-brand-built-with-ai/slides/slide07.png"
+    }
+  ],
+  "engine": "Arcads gpt-image-2-5-sunburst + carousel-style-reference.png",
+  "mockup_assets": {
+    "brand_board.png": "bbce090d-7a0f-47d8-a004-9df9c3db3f2d",
+    "box.png": "192d980b-0535-411d-b3ab-c3575c7d34da",
+    "hamper.png": "cea8755c-921c-4522-98b0-76f5fb5fc515",
+    "signage.png": "975c49d2-257d-4862-be34-fd13e15d74dc",
+    "ig_ad.png": "0e5012b1-9fb2-4e33-ad31-7e5103739e6e"
+  }
+}
