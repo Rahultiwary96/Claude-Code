@@ -13,6 +13,20 @@
     {
       "index": 1,
       "role": "hook",
+      "asset": "cover",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/cover.png",
+      "arcads_asset": "04caaec7-7434-4a03-b790-e2229c3f5db9",
+      "headline": "I created a",
+      "hero_phrase": "Diwali Mithai",
+      "caption": "Brand with AI",
+      "logo": true,
+      "class": "flatlogo",
+      "style": "--accent:#EC1E8C;--copy-top:55%;--fs:74px",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "role": "body",
       "asset": "poster_meethi",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/poster_meethi.png",
       "arcads_asset": "f758d855-df43-4dea-b959-3d6cddfd5854",
@@ -21,11 +35,11 @@
       "caption": "",
       "logo": false,
       "style": "--accent:#EC1E8C;--bandbg:#f85e02",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide01.png",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide02.png",
       "class": "band"
     },
     {
-      "index": 2,
+      "index": 3,
       "role": "body",
       "asset": "brand_kit",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/brand_kit.png",
@@ -35,11 +49,11 @@
       "caption": "",
       "logo": false,
       "style": "--accent:#EC1E8C;--bandbg:#fa5c02",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide02.png",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide03.png",
       "class": "band"
     },
     {
-      "index": 3,
+      "index": 4,
       "role": "body",
       "asset": "pack_box",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/pack_box.png",
@@ -49,11 +63,11 @@
       "caption": "",
       "logo": false,
       "style": "--accent:#EC1E8C;--bandbg:#fdcb02",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide03.png",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide04.png",
       "class": "band"
     },
     {
-      "index": 4,
+      "index": 5,
       "role": "body",
       "asset": "pack_range",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/pack_range.png",
@@ -63,11 +77,11 @@
       "caption": "",
       "logo": false,
       "style": "--accent:#EC1E8C;--bandbg:#e51479",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide04.png",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide05.png",
       "class": "band"
     },
     {
-      "index": 5,
+      "index": 6,
       "role": "body",
       "asset": "poster_roshni",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/poster_roshni.png",
@@ -77,28 +91,15 @@
       "caption": "",
       "logo": false,
       "style": "--accent:#EC1E8C;--bandbg:#214b53",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide05.png",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide06.png",
       "class": "band"
-    },
-    {
-      "index": 6,
-      "role": "body",
-      "asset": "mock_billboard",
-      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/mock_billboard.png",
-      "arcads_asset": "11fe3de4-b0c2-4f98-8779-ff63482cb59c",
-      "headline": "",
-      "hero_phrase": "",
-      "caption": "",
-      "logo": false,
-      "style": "--accent:#EC1E8C",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide06.png"
     },
     {
       "index": 7,
       "role": "body",
-      "asset": "mock_bag",
-      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/mock_bag.png",
-      "arcads_asset": "5b23ec15-4626-4e4f-b17b-60e7e93a3125",
+      "asset": "mock_billboard",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/mock_billboard.png",
+      "arcads_asset": "11fe3de4-b0c2-4f98-8779-ff63482cb59c",
       "headline": "",
       "hero_phrase": "",
       "caption": "",
@@ -109,9 +110,9 @@
     {
       "index": 8,
       "role": "body",
-      "asset": "shop",
-      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/shop.png",
-      "arcads_asset": "a1ccb64b-c80e-4adc-9b02-6033b2b796a0",
+      "asset": "mock_bag",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/mock_bag.png",
+      "arcads_asset": "5b23ec15-4626-4e4f-b17b-60e7e93a3125",
       "headline": "",
       "hero_phrase": "",
       "caption": "",
@@ -122,9 +123,9 @@
     {
       "index": 9,
       "role": "body",
-      "asset": "life_friends",
-      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/life_friends.png",
-      "arcads_asset": "5ee819a5-bba7-4d2a-aa8a-1af31a1ff602",
+      "asset": "shop",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/shop.png",
+      "arcads_asset": "a1ccb64b-c80e-4adc-9b02-6033b2b796a0",
       "headline": "",
       "hero_phrase": "",
       "caption": "",
@@ -134,6 +135,19 @@
     },
     {
       "index": 10,
+      "role": "body",
+      "asset": "life_friends",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/life_friends.png",
+      "arcads_asset": "5ee819a5-bba7-4d2a-aa8a-1af31a1ff602",
+      "headline": "",
+      "hero_phrase": "",
+      "caption": "",
+      "logo": false,
+      "style": "--accent:#EC1E8C",
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide10.png"
+    },
+    {
+      "index": 11,
       "role": "cta",
       "asset": "life_family",
       "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/life_family.png",
@@ -143,7 +157,7 @@
       "caption": "and I\u2019ll DM you",
       "logo": false,
       "style": "--accent:#EC1E8C;--copy-top:9%;--fs:70px",
-      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide10.png"
+      "out_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/slides/slide11.png"
     }
   ],
   "template": "template-editorial.html",
