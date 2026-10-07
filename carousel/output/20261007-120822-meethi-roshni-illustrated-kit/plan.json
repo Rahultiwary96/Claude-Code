@@ -13,9 +13,9 @@
     {
       "index": 1,
       "role": "hook",
-      "asset": "cover_poster_a",
-      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/cover_poster_a.png",
-      "arcads_asset": "0b23bc59-d968-4a8f-abd2-7b2cde332984",
+      "asset": "cover_hi_a",
+      "bg_file": "carousel/runs/20261007-120822-meethi-roshni-illustrated-kit/media/cover_hi_a.png",
+      "arcads_asset": "5205cab2-2180-4fc2-84b3-e9f5ba834086",
       "headline": "",
       "hero_phrase": "",
       "caption": "",
