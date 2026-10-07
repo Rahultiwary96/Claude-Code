@@ -1,0 +1,143 @@
+{
+  "slug": "20261007-130210-zero-se-designer-class-1",
+  "topic": "Zero Se Designer \u00b7 Class 1 \u2014 Design decoration nahi, communication hai",
+  "created": "20261007-130210",
+  "brand_label": "MADE BY CLAUDE \u00b7 2026",
+  "handle": "@socialcanvasbyrahul",
+  "canvas": {
+    "w": 1080,
+    "h": 1350,
+    "aspect": "4:5"
+  },
+  "slides": [
+    {
+      "index": 1,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:12.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:120px;z-index:4\"><span class=\"strip \" style=\"--r:-1.5deg;--fs:54px\">Tumhara design sundar hai\u2026</span><span class=\"strip y\" style=\"--r:1deg;--fs:76px;font-weight:800\">par kaam ka hai?</span></div><div class=\"sh\" style=\"left:70px;top:420px;width:420px;height:525px;transform:rotate(-4deg);z-index:3\"><div class=\"torn\" data-amp=\"1.1\" style=\"width:100%;height:100%;background:#fff;padding:12px\"><img src=\"{B}\" style=\"width:100%;height:100%;object-fit:cover;display:block\"></div><div class=\"pill red\" style=\"left:-14px;top:-18px\">GALAT</div><div class=\"tape\" style=\"left:145px;top:-16px;--r:-4deg\"></div></div><div class=\"sh\" style=\"left:540px;top:400px;width:420px;height:525px;transform:rotate(3deg);z-index:3\"><div class=\"torn\" data-amp=\"1.1\" style=\"width:100%;height:100%;background:#fff;padding:12px\"><img src=\"{A}\" style=\"width:100%;height:100%;object-fit:cover;display:block\"></div><div class=\"pill green\" style=\"left:-14px;top:-18px\">SAHI</div><div class=\"tape\" style=\"left:145px;top:-16px;--r:-4deg\"></div></div><div class=\"abs lines\" style=\"left:56px;top:1150px;z-index:4\"><span class=\"strip k sm\" style=\"--r:-1deg;\">Zero Se Designer \u00b7 Class 1</span></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg01.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:25.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:130px;z-index:4\"><span class=\"strip k\" style=\"--r:-2deg;--fs:96px;font-weight:800\">Design =</span><span class=\"strip \" style=\"--r:1.5deg;--fs:76px;color:#8a8a8a\"><span class=\"strike\">Decoration</span></span></div><div class=\"abs lines\" style=\"left:56px;top:980px;z-index:4\"><span class=\"strip g\" style=\"--r:-1.5deg;--fs:104px;font-weight:800\">Communication</span></div><div class=\"abs lines\" style=\"left:56px;top:1150px;z-index:4\"><span class=\"strip y sm\" style=\"--r:1deg;--fs:36px\">Decoration sirf uski help karta hai.</span></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg02.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide02.png"
+    },
+    {
+      "index": 3,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:37.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:120px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:48px\">Gappu ka Diwali sale poster \u2728</span><span class=\"strip y\" style=\"--r:1deg;--fs:42px\">Bahut sundar\u2026 par offer kya hai?</span><span class=\"strip sm\" style=\"--r:-1deg;\">Kab tak? Kahan? \ud83e\udd14</span></div><div class=\"sh\" style=\"left:300px;top:400px;width:480px;height:600px;transform:rotate(-1.5deg);z-index:3\"><div class=\"torn\" data-amp=\"1.1\" style=\"width:100%;height:100%;background:#fff;padding:12px\"><img src=\"{B}\" style=\"width:100%;height:100%;object-fit:cover;display:block\"></div><div class=\"pill red\" style=\"left:-14px;top:-18px\">BEFORE</div><div class=\"tape\" style=\"left:175px;top:-16px;--r:-4deg\"></div></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg03.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide03.png"
+    },
+    {
+      "index": 4,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:50.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:120px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:48px\">Same poster.</span><span class=\"strip g\" style=\"--r:1deg;--fs:42px\">Ab 3 second mein sab samajh aaya.</span></div><div class=\"sh\" style=\"left:300px;top:400px;width:480px;height:600px;transform:rotate(0deg);z-index:3\"><div class=\"torn\" data-amp=\"1.1\" style=\"width:100%;height:100%;background:#fff;padding:12px\"><img src=\"{A}\" style=\"width:100%;height:100%;object-fit:cover;display:block\"></div><div class=\"pill green\" style=\"left:-14px;top:-18px\">AFTER</div><div class=\"tape\" style=\"left:175px;top:-16px;--r:-4deg\"></div></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg04.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide04.png"
+    },
+    {
+      "index": 5,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:62.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"sh\" style=\"left:290px;top:170px;width:500px;height:625px;transform:rotate(0deg);z-index:3\"><div class=\"torn\" data-amp=\"1.1\" style=\"width:100%;height:100%;background:#fff;padding:12px\"><img src=\"{A}\" style=\"width:100%;height:100%;object-fit:cover;display:block\"></div><div class=\"tape\" style=\"left:185px;top:-16px;--r:-4deg\"></div></div><div class=\"num\" style=\"left:244px;top:320px\">1</div><div class=\"num\" style=\"left:299px;top:526px\">2</div><div class=\"num\" style=\"left:284px;top:717px\">3</div><div class=\"num\" style=\"left:739px;top:626px\">4</div><div class=\"abs\" style=\"left:70px;top:850px;display:flex;gap:12px;align-items:center;z-index:6\"><div class=\"num\" style=\"position:relative;width:54px;height:54px;font-size:27px\">1</div><span class=\"strip sm\" style=\"--r:1deg;--fs:32px\">Offer sabse bada</span></div><div class=\"abs\" style=\"left:70px;top:928px;display:flex;gap:12px;align-items:center;z-index:6\"><div class=\"num\" style=\"position:relative;width:54px;height:54px;font-size:27px\">2</div><span class=\"strip sm\" style=\"--r:-1deg;--fs:32px\">Ek hi image</span></div><div class=\"abs\" style=\"left:70px;top:1006px;display:flex;gap:12px;align-items:center;z-index:6\"><div class=\"num\" style=\"position:relative;width:54px;height:54px;font-size:27px\">3</div><span class=\"strip sm\" style=\"--r:1deg;--fs:32px\">Date aur address saath mein</span></div><div class=\"abs\" style=\"left:70px;top:1084px;display:flex;gap:12px;align-items:center;z-index:6\"><div class=\"num\" style=\"position:relative;width:54px;height:54px;font-size:27px\">4</div><span class=\"strip sm\" style=\"--r:-1deg;--fs:32px\">Decoration sirf support mein</span></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg05.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide05.png"
+    },
+    {
+      "index": 6,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:75.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:150px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:52px\">The</span><span class=\"strip k\" style=\"--r:1deg;--fs:76px;font-weight:800\">3-second</span><span class=\"strip k\" style=\"--r:-1deg;--fs:76px;font-weight:800\">test</span></div><div class=\"card\" style=\"left:60px;top:600px;width:300px;height:330px;--r:-2deg;text-align:center;z-index:4\"><div class=\"emoji\" style=\"font-size:118px;margin:20px 0 24px\">\ud83d\udce6</div><span class=\"strip y sm\" style=\"--r:0deg;--fs:29px\">Kya hai?</span></div><div class=\"card\" style=\"left:390px;top:600px;width:300px;height:330px;--r:1.5deg;text-align:center;z-index:4\"><div class=\"emoji\" style=\"font-size:118px;margin:20px 0 24px\">\ud83d\udc64</div><span class=\"strip y sm\" style=\"--r:0deg;--fs:29px\">Kiske liye hai?</span></div><div class=\"card\" style=\"left:720px;top:600px;width:300px;height:330px;--r:-1deg;text-align:center;z-index:4\"><div class=\"emoji\" style=\"font-size:118px;margin:20px 0 24px\">\ud83d\udc49</div><span class=\"strip y sm\" style=\"--r:0deg;--fs:29px\">Ab kya karna hai?</span></div><div class=\"abs lines\" style=\"left:56px;top:1010px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:44px\">Teeno ka jawab nahi mila</span><span class=\"strip r\" style=\"--r:1deg;--fs:60px;font-weight:800\">= design fail.</span></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg06.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide06.png"
+    },
+    {
+      "index": 7,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:87.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:140px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:52px\">Canva mein</span><span class=\"strip y\" style=\"--r:1.5deg;--fs:76px;font-weight:800\">3 steps</span></div><div class=\"num\" style=\"left:56px;top:420px\">1</div><div class=\"abs lines\" style=\"left:136px;top:390px;z-index:4\"><span class=\"strip  sm\" style=\"--r:-1deg;--fs:38px\">Message ek line</span><span class=\"strip y sm\" style=\"--r:1deg;--fs:38px\">mein likho</span></div><div class=\"card\" style=\"position:absolute;left:720px;width:310px;height:220px;top:350px;z-index:4;--r:2deg;display:flex;align-items:center\"><div style=\"font-weight:600;font-size:26px;line-height:1.35\">\u201cDiwali Sale: TVs pe 40% off, 20 Oct \u2013 8 Nov\u201d</div></div><div class=\"num\" style=\"left:56px;top:720px\">2</div><div class=\"abs lines\" style=\"left:136px;top:690px;z-index:4\"><span class=\"strip  sm\" style=\"--r:-1deg;--fs:38px\">Sabse important</span><span class=\"strip y sm\" style=\"--r:1deg;--fs:38px\">cheez sabse badi</span></div><div class=\"sh\" style=\"position:absolute;left:720px;width:310px;height:220px;top:650px;z-index:4;transform:rotate(-2deg)\"><div class=\"torn\" style=\"width:100%;height:100%;background:#fff;padding:8px\"><img src=\"{A}\" style=\"width:100%;height:100%;object-fit:cover;object-position:50% 26%;display:block\"></div></div><div class=\"num\" style=\"left:56px;top:1020px\">3</div><div class=\"abs lines\" style=\"left:136px;top:990px;z-index:4\"><span class=\"strip  sm\" style=\"--r:-1deg;--fs:38px\">Har element: help</span><span class=\"strip r sm\" style=\"--r:1deg;--fs:38px\">karta hai? Nahi to delete.</span></div><div class=\"sh\" style=\"position:absolute;left:720px;width:310px;height:220px;top:950px;z-index:4;transform:rotate(2deg)\"><div class=\"torn\" style=\"width:100%;height:100%;background:#fff;padding:8px;position:relative\"><img src=\"{B}\" style=\"width:100%;height:100%;object-fit:cover;object-position:50% 40%;display:block\"><div class=\"abs\" style=\"left:25px;top:8px;color:#E63946;font-weight:900;font-size:60px;line-height:1\">\u2715</div><div class=\"abs\" style=\"left:225px;top:25px;color:#E63946;font-weight:900;font-size:60px;line-height:1\">\u2715</div><div class=\"abs\" style=\"left:18px;top:130px;color:#E63946;font-weight:900;font-size:60px;line-height:1\">\u2715</div><div class=\"abs\" style=\"left:232px;top:140px;color:#E63946;font-weight:900;font-size:60px;line-height:1\">\u2715</div></div></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg07.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide07.png"
+    },
+    {
+      "index": 8,
+      "topic_tag": "CLASS 01",
+      "class": "collage",
+      "style": "--prog:100.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"abs lines\" style=\"left:56px;top:140px;z-index:4\"><span class=\"strip k\" style=\"--r:-1.5deg;--fs:76px;font-weight:800\">Homework \ud83d\udcdd</span></div><div class=\"abs lines\" style=\"left:56px;top:330px;z-index:4\"><span class=\"strip  sm\" style=\"--r:-1deg;--fs:40px\">\u2610 Purana design uthao</span><span class=\"strip  sm\" style=\"--r:1deg;--fs:40px\">\u2610 3-second test lagao</span><span class=\"strip  sm\" style=\"--r:-1deg;--fs:40px\">\u2610 Fix karke post karo</span><span class=\"strip  sm\" style=\"--r:1deg;--fs:40px\">\u2610 Tag karo @socialcanvasbyrahul</span></div><div class=\"abs lines\" style=\"left:56px;top:720px;z-index:4\"><span class=\"strip \" style=\"--r:-1deg;--fs:44px\">Next class:</span><span class=\"strip y\" style=\"--r:1deg;--fs:62px;font-weight:800\">Hierarchy \ud83d\udc40</span></div><div class=\"abs lines\" style=\"left:56px;top:960px;z-index:4\"><span class=\"strip k sm\" style=\"--r:-1deg;--fs:28px\">Practice pack: comment CLASS</span></div>",
+        "images": {
+          "B": "runs/20261007-130210-zero-se-designer-class-1/media/poster_before.png",
+          "A": "runs/20261007-130210-zero-se-designer-class-1/media/poster_after.png"
+        }
+      },
+      "bg_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/media/bg08.png",
+      "out_file": "carousel/runs/20261007-130210-zero-se-designer-class-1/slides/slide08.png"
+    }
+  ],
+  "template": "template-zsd.html"
+}
