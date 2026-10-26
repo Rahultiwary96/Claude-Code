@@ -102,5 +102,5 @@ How to read a reel's retention graph and which part of the reel to fix. Each sli
 ## Patterns across these breakdowns
 
 - All three open on the viewer's pain or doubt, not on the creator. That is the same lesson as this channel's data: announcement hooks fail.
-- All three end with a single keyword CTA that feeds a DM automation (999, story, Playbook), and each one is a funnel for a paid offer.
+- All three end with a keyword CTA that feeds a DM automation (999, story, Playbook), and each one is a funnel for a paid offer.
 - Proof is used early (follower growth, a retention curve). Rahul should only use proof he can show with real numbers.
