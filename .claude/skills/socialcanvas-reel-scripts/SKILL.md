@@ -48,6 +48,8 @@ From the account's own analytics (135 reels, Jan to Oct 2026):
 
 When asked for hook options: give one recommended hook with one line on why, then three or four alternatives. Rahul prefers hooks that are direct and relatable, written as if talking to the audience: "Aapne Instagram pe ye wala viral video to dekha hi hoga, to chalo batata hoon...".
 
+Hooks must sound like Rahul talking to a friend, never like a headline. Open with a friendly address ("yaar", "suno", "dekho", "socho") or a shared moment, speak to "tum" directly, and promise to show them ("chalo dikhata hoon", "batata hoon"). Keep Hook Master's rule that the topic is clear in the first sentence: the friendly word comes first, the topic right after, with no greeting or "welcome back" in between.
+
 ## 5. Visual hooks
 
 Rahul shoots himself, then edits with Seedance 2.5 or Google Omni. Good visual hooks are grounded in Indian everyday life, not fictional fantasy:
