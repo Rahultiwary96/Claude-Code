@@ -145,3 +145,38 @@ Seven reels Rahul sent together. Each entry gives the format and how to adapt it
 - Split screen "Original vs Claude/AI" in the first second is the dominant visual hook (4 of 7).
 - A borrowed recognisable moment (comedian, festival, famous software brand) does the hooking, and the tutorial is only 15 to 17 seconds.
 - "Paid tool crossed out, free alternative in" (ElevenLabs, Figma or Office) is the second strongest share trigger.
+
+## "100 Viral Hooks" Notion database and two hook newsletters (analysed 26 Oct 2026)
+
+Source: https://lemon-turret-474.notion.site/100-Viral-Hooks-36fa5260bd2580338dd0d911a3a204ae (Nexus / Devin, a lead magnet for a paid mastermind). It actually holds 70 templates (Hook 1 to 70, plus an empty "Hook 100"). Each one has a fill-in template, the original line and a video example. English, US business and fitness niches, some profanity.
+
+### Template families (numbers refer to the database)
+- Myth-bust or contrarian: 1, 3, 20, 29, 30, 41, 49, 51, 55, 59, 62
+- Proof or authority ("I tested X hours", "pro here"): 6, 18, 28, 31, 38, 39, 43, 53, 57, 58
+- Shortcut or cheat code: 8, 10, 11, 12, 22, 25, 33, 34, 47
+- Reverse or warning ("how to ruin your X", "never forget"): 5, 21, 24, 36, 61, 65, 67
+- Choice or curation ("if I could only use X", "A vs B"): 2, 35, 37, 50, 52
+- Secret or gatekeeping: 13, 19, 23, 26
+- Identity callout: 9, 17, 40, 44, 60, 64
+- Simplify: 4, 42, 48, 63, 70
+
+### Awareness levels (from the newsletter), mapped to templates
+- Product aware (knows the tools, unsure which is best): 2, 35, 38, 52
+- Solution aware (uses a method, doesn't know there's a better one): 20, 49, 55, 59, 62
+- Problem aware (knows the problem, not the fix): 4, 8, 48, 50, 57, 58
+- Symptom aware (only feels the pain): 9, 41, 44, 46, 17
+- Most of this channel's designers are problem or solution aware. Symptom-aware hooks (generic-looking work, endless revisions) are the ones that get shared.
+
+### The 3-hook process (from the newsletter)
+Write 3 hooks for the same body, record each at least 3 times, cut 3 versions, post all 3 as Trial Reels, and after 24 hours post the winner to the feed. This fits section 4 (re-cuts go out as Trial Reels).
+
+### Checked against this channel's data (359 reels, Jan 2025 to Oct 2026)
+- Skip rate vs views, Spearman correlation: -0.56.
+- Median views by skip-rate band: 30% or less 1.35M (12 reels), 30-40% 291K, 40-50% 154K, 50-60% 111K, 60-70% 76K, 70-80% 50K. Channel median skip is about 59%.
+- This is correlation. Topic and trend also drive both numbers, so treat it as "hooks matter a lot", not a formula.
+- The newsletter's own maths is off: 5.6M / 388K is 14.4x, which is +1,343%, not +1,443%. 44% to 26% is 18 points, a 41% relative drop.
+
+### Using the templates here
+- Translate the structure, not the words. Hinglish, no profanity, and no US-only references.
+- Pair every spoken hook with a result-first visual (section 5). A voice hook alone over a talking head is the announcement pattern that fails on this channel.
+- Use [X] placeholders for any hours, days or results until they are real (section 7).
