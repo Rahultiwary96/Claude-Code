@@ -104,3 +104,44 @@ How to read a reel's retention graph and which part of the reel to fix. Each sli
 - All three open on the viewer's pain or doubt, not on the creator. That is the same lesson as this channel's data: announcement hooks fail.
 - All three end with a keyword CTA that feeds a DM automation (999, story, Playbook), and each one is a funnel for a paid offer.
 - Proof is used early (follower growth, a retention curve). Rahul should only use proof he can show with real numbers.
+
+## Batch: Claude animation, free tools, voice clone, poster layouts (analysed 26 Oct 2026)
+
+Seven reels Rahul sent together. Each entry gives the format and how to adapt it for this channel. Scripts written from these are in the 26 Oct conversation; keywords chosen so none clash: CARTOON, KAHANI, BEAT, SKETCH, SOFTWARE, VOICE, LAYOUT.
+
+### @rajhere.in: "Animate video with Claude" (DeRcOaKJUEa, about 31s, Hindi)
+- Format: the first 13 seconds are a split screen, a viral comedian clip on one side and a 2D cartoon version on the other, with no voiceover. Then a quick screen recording: upload the clip, paste a long prompt (keep the original audio, rebuild everything else as flat 2D cartoon), and the result plays. Comment "Samay".
+- Why it works: a recognisable face plus the side-by-side "magic" result in the first second.
+- Adapt: use Rahul's own footage (a client-call reaction), never a celebrity clip (section 7). Check the exact name of the Claude feature, which plan it needs, and whether it accepts video uploads, before filming.
+
+### @rajhere.in: "Explainer videos with AI" (DetnunzsVf0, about 39s, Hindi)
+- Format: split screen, a static poster labelled "Original" next to a flat-vector animated story labelled "Claude". The mythology story (Dussehra and Navratri) is told in about 13 scenes, roughly one every 3 seconds, with animated counters (night 3/9, 108 lotuses dropping to 107). Epic Indian music. "Comment Video for workflow." No steps are shown.
+- Why it works: a festival moment plus a little-known story plus AI curiosity. It matches the national-moment winners in this channel's data.
+- Adapt: tie it to the next festival, add the 2 to 3 steps the original skips, and be respectful with devotional figures (section 5).
+
+### @rajhere.in: "Music video with Claude" (DebyQCmpPra, about 31s, Hindi)
+- Format: 12 seconds of beat-synced pop-art and kinetic typography over a rap track, then a screen recording (upload the audio and reference clips, paste the prompt) with a talking-head cutout. Comment "Music".
+- Adapt: use an original or royalty-free track. A copyrighted song can get the reel muted.
+
+### @aansh.ai: sketch lyric video, "Claude" vs "Original" (DemyVSWTaEJ, about 56s)
+- Format: a stacked split screen on a grid background. Pencil sketches on aged paper (crying eyes, footprints, a window at night, a girl on a swing), lyrics typing in Devanagari, light rain overlay. No steps, no CTA. The comparison makes people comment.
+- Adapt: use Rahul's own shayari or a public-domain poem, not a copyrighted song, and only show a "vs original" if he owns or credits the original.
+
+### @goabhiii: "They are making all softwares FREE" (Dee288-oC3S, about 45s, Hindi)
+- Format: close-up talking head holding a mini mic, then he films his monitor with his phone (deliberately raw) while scrolling a site listing open-source clones: FigCraft, WordCraft, SoundCraft, DeckCraft, CADCraft, GridCraft. Comment "Softwares".
+- Why it works: you get to skip a subscription, an underdog story, and the URL is never said aloud.
+- Accuracy: several apps on the site are tagged "in development". Don't say everything is free and ready. Verify the site and which apps have shipped before filming.
+
+### @nick_saraev: "Clone your voice in 3 seconds" (DepCy50P-Wd, about 30s, English)
+- Format: ElevenLabs logo crossed out at the start, then VoiceStudio (voicestudio.sh, open source): upload a voice sample, write a script, synthesize. GitHub highlights (600+ languages; gender, age, accent and pitch control; an MCP server for Claude Code). Creator in a rounded box at the bottom, jumps to full screen for the CTA. Comment "Voice".
+- Adapt: the multilingual angle. Rahul's engaged audience is heavy in Bangalore and Chennai, so a Hindi-to-Tamil demo fits. Test quality and confirm the free and open-source claims first. Clone only his own voice.
+
+### @__eyedesign: one poster, many compositions (DezBYbnO9Xh, about 38s, English)
+- Format: over-the-shoulder at a desk, push into the monitor, and the poster pops out and cycles through layouts. Screen recording: upload the poster to ChatGPT, paste a master prompt (act as an art director, analyse it, write 8 composition prompts), then run each prompt with the image. Ends with a slideshow of results. Comment "ChatGPT". The master prompt is deliberately hidden.
+- Why it works: the core designer pain (a client wanting more options) and the result shown first.
+- Adapt: Rahul writes his own master prompt. Image generation limits apply on free ChatGPT. Use the keyword LAYOUT, because POSTER was used on 22 Sept 2026.
+
+### Patterns in this batch
+- Split screen "Original vs Claude/AI" in the first second is the dominant visual hook (4 of 7).
+- A borrowed recognisable moment (comedian, festival, famous software brand) does the hooking, and the tutorial is only 15 to 17 seconds.
+- "Paid tool crossed out, free alternative in" (ElevenLabs, Figma or Office) is the second strongest share trigger.
