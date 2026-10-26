@@ -114,3 +114,23 @@ Comment "LOGO" and I'll send you the skill and the full workflow in your DM
 ## 12. Reference breakdowns
 
 `references/reel-breakdowns.md` holds analyses of other creators' reels: what each teaches, how it is built, and how to adapt it for this channel. Read it when writing hooks, when Rahul mentions one of those reels, or when he asks for a relatable "pain first" angle. Add a new entry there whenever a reel is analysed.
+
+## 13. Hook Master (hook diagnosis and rewrites)
+
+`references/hook-master/` holds Hook Master v1.1.0 by Liam Johnston (MIT, see its LICENSE and `hook-master/CREDITS.md`). It is nine small skills that check and fix the first seconds of a reel. They are not installed as separate skills; read the files directly.
+
+When to use it:
+- Rahul asks to fix, check or rank a hook, or a reel's skip rate is above 60 percent (section 4).
+- Before handing over any new script, run its hook through `four-failures-check` and `viewer-panel` silently.
+
+How to run it: read `references/hook-master/hook-master/SKILL.md` first. It routes to the other eight. When it says to load a stage skill, read `references/hook-master/<stage>/SKILL.md` (the stages are siblings in that folder).
+
+This channel's rules win over Hook Master's where they differ:
+- **Language and voice.** All spoken lines and on-screen text in Roman Hinglish and Rahul's voice (sections 1 and 2), not English.
+- **Output.** For a full script, keep the section 10 format and add the hook check as short notes after the separator. Use Hook Master's card only when Rahul asks to fix or rank an existing hook.
+- **Viewer panel for this audience.** Swap in: the Hindi-speaking doom-scroller, the beginner who has never opened Claude, the working freelance designer, the sceptic who has seen every "secret AI tool" reel, the student who wants to earn, and the rival Hindi tech creator. Weight the doom-scroller and the freelance designer most.
+- **Visual first.** Hook Master's `visual-match` agrees with section 5. Ground the first shot in Indian everyday life and Rahul's own footage.
+- **Proof and tests.** Use only Rahul's real analytics. For "Test it", compare against this channel's numbers (median skip about 59 percent; median views by skip band in `references/reel-breakdowns.md`) and use Trial Reels for the A/B test.
+- **CTA.** One keyword CTA at the end (section 3). Hook Master's "cut follow asks before the payoff" still applies.
+- **Viral scout.** Use the entries in `references/reel-breakdowns.md` as the pasted examples. Never claim a trend without them.
+- Hook Master's honesty rules (no invented stats, no view promises, facts kept at their true size, no dashes) match section 7. Follow both.
