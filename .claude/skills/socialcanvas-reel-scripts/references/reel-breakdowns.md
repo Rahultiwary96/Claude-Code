@@ -180,3 +180,33 @@ Write 3 hooks for the same body, record each at least 3 times, cut 3 versions, p
 - Translate the structure, not the words. Hinglish, no profanity, and no US-only references.
 - Pair every spoken hook with a result-first visual (section 5). A voice hook alone over a talking head is the announcement pattern that fails on this channel.
 - Use [X] placeholders for any hours, days or results until they are real (section 7).
+
+## Rahul's own: Meshy "pookie Raavan" (analysed 27 Oct 2026)
+
+Source: https://www.instagram.com/reel/DbdJ1SDIBfR/ (posted 31 Jul 2026, 48.8s, no voiceover, text-only hook, keyword POOKIE, Meshy code RAHUL01).
+
+Results (Instagram insights, 27 Oct 2026): 129K views, 87K reach, 47.2% skip, 10.4s average watch, 575 shares, 839 saves.
+
+Same tool, different hooks, on this channel:
+| Reel | Hook type | Skip | Avg watch |
+|---|---|---|---|
+| Pookie Raavan (31 Jul) | Belief flip + humour, toy in hand at 5s | 47.2% | 10.4s |
+| "@meshyai_in just made AI 3D modeling..." (8 Jul) | Tool announcement | 73.9% | 4.3s |
+| "POV: the right way to use GPT-6 Astra" + Meshy (12 Sep) | Tool announcement | 83.5% | 2.6s |
+
+### First 10 seconds
+- 0 to 4.5s: text "Everyone thinks Raavan is Evil" (white serif, two lines, top third) over a monitor showing a cinematic Raavan scene, camera pushing into the screen.
+- 5 to 10s: text "So I made him a pookie using Meshy" (white box, lower middle) over the real 3D-printed figurine turning in his hand.
+
+### Why it worked
+- A belief everyone holds, then a funny flip ("evil" to "pookie"). Contrast and humour, timed to the Ramayana film buzz.
+- The physical result (a toy in hand) at 5s is the proof. The tool name arrives only after the payoff.
+
+### What lost people
+- Average watch 10.4s of 48.8s: most viewers leave right after the toy reveal. The 12 to 28s screen recordings have no step labels or "kaise bana" promise, so they read as a dead stretch.
+- 4.5s on a static line is long. Flash the toy earlier or cut the line to about 2.5s.
+- If the monitor footage at 0 to 4.5s is from the film trailer, it is copyrighted (section 7). Use a muted picture-in-picture or an own render next time.
+
+### Reuse
+- The "Everyone thinks X / So I made Y" two-beat text hook works with no voiceover. Use it for other belief-flip ideas, timed to what the country is talking about.
+- Add a lock-in at about 6 to 8s ("kaise bana, step by step") and numbered step labels on the screen recordings, and cut to about 35s.
