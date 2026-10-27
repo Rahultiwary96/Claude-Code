@@ -210,3 +210,23 @@ Same tool, different hooks, on this channel:
 ### Reuse
 - The "Everyone thinks X / So I made Y" two-beat text hook works with no voiceover. Use it for other belief-flip ideas, timed to what the country is talking about.
 - Add a lock-in at about 6 to 8s ("kaise bana, step by step") and numbered step labels on the screen recordings, and cut to about 35s.
+
+## Podcast: Adley Kinsman on Creator Unplugged (analysed 27 Oct 2026)
+
+Long-form interview (about 61 min, transcript pasted by Rahul). Adley Kinsman (Viral-ish) talks with the host, June, on hooks, tension, wide-net content and conversion. Her numbers (80B+ views, "top 1%") are her own claims.
+
+### Lessons and how they apply here
+- **Skip rate first, then watch time.** Her targets: about 90% still watching at 6 seconds, and on a 60s video about half the viewers still there at the halfway point. Treat these as stretch goals. This channel's median skip is about 59%, and the best Meshy reel was 47%.
+- **One itch, scratched at the end.** The first 3 seconds open a question that is answered only in the last 3. Paying off early breaks the tension. This explains the Meshy pookie reel: the toy reveal at 5s answered the hook, so the 10.4s average watch is where people left. Fix: tease the result early, but keep one open question (how, how much, how long) until the end.
+- **Package for sound-off.** Text hook, spoken line, energy and setting must all say the same thing. On-screen text is the fastest fix for a weak video: the same footage reads differently under a different text frame.
+- **Wide net, then narrow ("funnel drop").** The hook should matter to almost anyone scrolling. Narrow to the niche as the video goes. Don't open by naming the niche ("agar tum designer ho..."). Cultural relevance leads to contextual relevance, which matches this channel's winners (national tribute, AI trends).
+- **Entertain the masses, educate the interested, sell to the committed.** Interesting earns the right to teach. It does not have to mean funny.
+- **Make the ordinary extraordinary.** Take a feeling everyone has and make it 10 times bigger on screen.
+- **A repeatable series.** Simple, repeatable, scalable, bingeable, batchable (her "SRS").
+- **Struggle x topic x desire idea grid.** List 10 struggles, 10 topics and 10 desires of the audience, then combine them. That gives up to 1,000 combinations, not the "90" she says.
+- **Conversion pieces use hook, objection, explanation.** For stories: one frame, a plain direct statement with one charged word, text as the focus, and nothing that pulls the eye away.
+- **Pain is more relatable than success.** Struggle stories build trust. Rahul's own story must come from Rahul. Never invent one.
+- **Consistency plus experimentation, or you plateau.** Flops are part of testing, so use Trial Reels.
+- **Match the language to the buyer.** People with money want time saved. People with less money (students, new freelancers, most of this audience) need step-by-step proof and low risk.
+
+Caution: "90% of communication is nonverbal" is a popular misreading of an old study about mixed emotional messages. Don't repeat it as a fact.
