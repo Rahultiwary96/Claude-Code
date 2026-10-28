@@ -230,3 +230,26 @@ Long-form interview (about 61 min, transcript pasted by Rahul). Adley Kinsman (V
 - **Match the language to the buyer.** People with money want time saved. People with less money (students, new freelancers, most of this audience) need step-by-step proof and low risk.
 
 Caution: "90% of communication is nonverbal" is a popular misreading of an old study about mixed emotional messages. Don't repeat it as a fact.
+
+## "Broccoli" packaging lesson (pasted transcript, analysed 28 Oct 2026)
+
+Short talking piece, creator not named. Core idea: a hook is like getting a five-year-old to eat broccoli. The value stays the same; the packaging changes so a stranger on the feed cares.
+
+### The lesson
+- **Say it in the viewer's words, not yours.** "We built an app, it's an MCP, it connects to Claude" means nothing to most people. "Claude can actually edit my videos, I have a team of editors inside Claude" says the same thing in words they already use.
+- **Ask two questions before writing a hook:** who exactly is watching, and what is already on their mind today? Then use the words they say in their own day.
+- **Hide the broccoli inside something they already want.** Dense, useful information goes inside a format or topic the viewer already enjoys: a trend, a meme or a moment everyone is talking about.
+- **Your own story is not interesting by default.** Talking about your launch or your build is inherently self-centred. Frame it as what it lets the viewer do.
+
+### How it applies here
+- **Jargon test for every hook.** If a line has a word the Hindi doom-scroller or the beginner who has never opened Claude would not say (MCP, API, agent, workflow, model, node, LoRA), rewrite it as the result they'd see. Keep the jargon for the steps, after the lock-in.
+- **This channel already proves it.** The CARTOON hook ("ye meri hi video hai, bas Claude ne isko cartoon bana diya, aur awaaz bilkul meri wali hai") sells the result, not the tool. The Meshy announcement hooks (74 and 84% skip) sold the tool. The pookie Raavan reel (47%) wrapped a 3D-print tutorial inside the Ramayana moment.
+- **Packaging for this audience.** Wrap tutorials in things the audience already feels or follows: festival moments (Diwali posters, Ram ji), designer pains (the client's "thoda pop karo" voice note, logo_final_v7), national trends and memes. The topic must still be clear in the first sentence (section 4).
+- **Check the wrapper fits.** The packaging has to lead into the actual steps. A bait wrapper with an unrelated payoff raises the skip rate later in the reel and hurts trust. Keep the copyright and respect rules (sections 5 and 7) when borrowing a trend.
+
+### Quick rewrite examples
+| Insider version | Broccoli version |
+|---|---|
+| "Maine Claude ke liye ek MCP banaya" | "Yaar ab Claude meri videos khud edit kar deta hai" |
+| "Creatify Agent URL se ad generate karta hai" | "Bas apni website ka link do, aur poora video ad ban jaata hai" |
+| "ChatGPT image gen se product poster" | "Is Diwali apne product ka aisa poster ek prompt se bana lo" |

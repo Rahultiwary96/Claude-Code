@@ -46,6 +46,8 @@ From the account's own analytics (135 reels, Jan to Oct 2026):
 - Same-day duplicates lose 90 to 98 percent of reach. Re-cuts go out as Trial Reels.
 - If a reel's skip rate is above 60 percent after the first hours, the hook failed, not the content. Fix only the first 3 seconds.
 
+Package the value in the viewer's words, not the tool's. Before writing a hook, ask who is watching and what is already on their mind, then say the result in words they use every day ("Claude ab meri videos edit kar deta hai", not "maine ek MCP banaya"). Keep jargon like MCP, API, agent or model out of the first sentence. See the "Broccoli" entry in `references/reel-breakdowns.md`.
+
 When asked for hook options: give one recommended hook with one line on why, then three or four alternatives. Rahul prefers hooks that are direct and relatable, written as if talking to the audience: "Aapne Instagram pe ye wala viral video to dekha hi hoga, to chalo batata hoon...".
 
 Hooks must sound like Rahul talking to a friend, never like a headline. Open with a friendly address ("yaar", "suno", "dekho", "socho") or a shared moment, speak to "tum" directly, and promise to show them ("chalo dikhata hoon", "batata hoon"). Keep Hook Master's rule that the topic is clear in the first sentence: the friendly word comes first, the topic right after, with no greeting or "welcome back" in between.
