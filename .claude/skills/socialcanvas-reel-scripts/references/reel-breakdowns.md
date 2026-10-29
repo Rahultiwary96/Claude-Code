@@ -253,3 +253,23 @@ Short talking piece, creator not named. Core idea: a hook is like getting a five
 | "Maine Claude ke liye ek MCP banaya" | "Yaar ab Claude meri videos khud edit kar deta hai" |
 | "Creatify Agent URL se ad generate karta hai" | "Bas apni website ka link do, aur poora video ad ban jaata hai" |
 | "ChatGPT image gen se product poster" | "Is Diwali apne product ka aisa poster ek prompt se bana lo" |
+
+## Opening format vs skip rate: last 24 reels (analysed 29 Oct 2026)
+
+Frames at 0.1, 0.8, 1.6 and 2.5s for each of the last 24 reels (21 Sep to 29 Oct), grouped by what fills the screen in the first 2.5 seconds. Skip rate is Instagram's first-3-second skip.
+
+| Opening | Reels (skip %) | Median skip |
+|---|---|---|
+| Split screen: result or viral clip on top, Rahul reacting below | CCTV 38, Jai Mata Di 41, AI trend 45, InVideo 50, CARTOON 51, Canva animation 72 (face big, screen small) | about 48% |
+| Talking head first: Rahul's face alone, speaking | Flying Tesla 52, Canva app 71, Team India 74, LOGO 74, Tesla Pro 74, GPT-6 Astra 76, Diwali posters 77, Canva hacks 80, POSTER 84 | about 74% |
+| No talking head: footage, AI trend or result full screen | AI cricket trends 24 and 26, Captain 35, Dhoom 4 48, Google Flow POV 59, animated logo 66, Topview 68, NotebookLM 76 (black first frame), Durga 80 | about 59%, mixed |
+
+### What it means
+- Rahul's face is not the problem. In the split-screen reels his face is on screen from frame 1 and they hold the best. Viewers leave when the face is the only thing to look at.
+- The feed decides on the thing, not the person. A stranger has no reason to listen to someone they don't know talking. A result, a viral clip or a spectacle gives the reason, and Rahul's reaction rides along with it.
+- The topics are a partial confound: several talking-head reels were also tool announcements ("FREE", "secret Canva app"). Confirm with a Trial Reel A/B test using the same content and two openings.
+
+### Rule
+- Default opening: split screen, with the result, the viral clip or the before/after on top, and Rahul (green screen) reacting or explaining below. Use it as the channel's repeatable format.
+- Rahul talking alone to camera only after the first 3 seconds, or in stories for followers.
+- Never open on a black frame or a baked-in cover frame.

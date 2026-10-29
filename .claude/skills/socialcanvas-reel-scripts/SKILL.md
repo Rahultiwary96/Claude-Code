@@ -42,6 +42,7 @@ From the account's own analytics (135 reels, Jan to Oct 2026):
 - Announcement hooks fail. "Tum abhi bhi AI se bakwas X bana rahe ho" and "ye secret tool..." openings sat at 80 to 84 percent skip and about 3 seconds average watch (POSTER, Canva Hacks, GPT-6 Astra, the ChatGPT logo-skill reel at 69 percent). Do not lead with a bare tool announcement.
 - What wins: the result on screen in the first second, Rahul inside an AI trend, recreating a famous or meme moment, or riding a moment the whole country feels. Winners: 17.2M (national tribute), 5.6M and 2.3M (AI trends), 824K (MEME guide), CCTV 274K.
 - Shares drive reach. Winners had far more shares than saves. Build hooks people send to a friend, especially designer-to-designer relatable moments (logo_final_final_v7 folder, "bhaiya logo thoda pop karo" voice note, 14 revisions).
+- Opening format matters more than the line: split-screen openings (result or viral clip on top, Rahul reacting below) held at about 48 percent median skip, while talking-head-first openings sat at about 74 percent (last 24 reels, Oct 2026). Default to split screen. Never open on Rahul alone talking to camera. See "Opening format vs skip rate" in `references/reel-breakdowns.md`.
 - Best length 35 to 45 seconds. Under 25 kills saves. Trend reels can be about 10 seconds.
 - Same-day duplicates lose 90 to 98 percent of reach. Re-cuts go out as Trial Reels.
 - If a reel's skip rate is above 60 percent after the first hours, the hook failed, not the content. Fix only the first 3 seconds.
