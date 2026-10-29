@@ -1,0 +1,191 @@
+{
+  "slug": "20261029-155345-diwali-poster-build-step-by-step",
+  "topic": "Khaali page se Diwali poster, 6 steps (build slide by slide)",
+  "created": "20261029-155345",
+  "brand_label": "MADE BY CLAUDE \u00b7 2026",
+  "handle": "@socialcanvasbyrahul",
+  "canvas": {
+    "w": 1080,
+    "h": 1350,
+    "aspect": "4:5"
+  },
+  "slides": [
+    {
+      "index": 1,
+      "topic_tag": "DIWALI POSTER \u00b7 6 STEPS",
+      "headline": "Khaali page se ye Diwali poster",
+      "caption": "Har swipe pe ek step. Seedha copy kar lo \ud83d\udc49",
+      "class": "",
+      "style": "--prog:12.5%;--fs:64px",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:200px;top:380px;width:680px;height:850px\"><img src=\"{S6}\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide01.png"
+    },
+    {
+      "index": 2,
+      "topic_tag": "STEP 1/6",
+      "headline": "Pehle design nahi, message likho.",
+      "caption": "Ek line: [[Diwali pe saari mithai 20% off, 1 se 8 Nov]]. Isi line ko poster banana hai.",
+      "class": "",
+      "style": "--prog:25.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S1}\"></div><div style=\"position:absolute;left:330px;top:710px;width:420px;background:#FFE58A;padding:26px 28px;transform:rotate(-3deg);box-shadow:4px 8px 0 rgba(26,26,26,.18);font-weight:600;font-size:30px;line-height:1.35;z-index:6\">\u201cDiwali pe saari mithai 20% off, 1 se 8 Nov\u201d</div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide02.png"
+    },
+    {
+      "index": 3,
+      "topic_tag": "STEP 2/6",
+      "headline": "Background mein sirf 2 colour.",
+      "caption": "Ek dark, ek accent. Maroon aur gold, bas. Teesra colour aaya to poster bikhar jayega.",
+      "class": "",
+      "style": "--prog:37.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S2}\"></div><div style=\"position:absolute;left:890px;top:590px;z-index:6;text-align:center;font-weight:600;font-size:20px\"><div style=\"width:110px;height:110px;border-radius:50%;background:#660b16;border:5px solid #fff;box-shadow:0 6px 16px rgba(0,0,0,.2)\"></div><div style=\"margin:8px 0 26px\">Maroon</div><div style=\"width:110px;height:110px;border-radius:50%;background:#E6B94F;border:5px solid #fff;box-shadow:0 6px 16px rgba(0,0,0,.2)\"></div><div style=\"margin-top:-42px\">Gold</div></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide03.png"
+    },
+    {
+      "index": 4,
+      "topic_tag": "STEP 3/6",
+      "headline": "Ek hi photo. Jo bechna hai, wahi.",
+      "caption": "10 clipart nahi. Ek saaf product photo, poster ke beech mein.",
+      "class": "",
+      "style": "--prog:50.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S3}\"></div><div class=\"ring\" style=\"left:310.74074074074076px;top:718.148px;width:458.5185185185185px;height:458.5185185185185px\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide04.png"
+    },
+    {
+      "index": 5,
+      "topic_tag": "STEP 4/6",
+      "headline": "Offer sabse bada.",
+      "caption": "[[20% OFF]] itna bada ki 3 second mein padh lo, door se bhi.",
+      "class": "",
+      "style": "--prog:62.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S4}\"></div><div class=\"ring\" style=\"left:269.25925925925924px;top:526.148px;width:541.4814814814814px;height:146.8148148148148px\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide05.png"
+    },
+    {
+      "index": 6,
+      "topic_tag": "STEP 5/6",
+      "headline": "Baaki text chhota, offer ke paas.",
+      "caption": "Naam upar, \u201csaari mithai par\u201d neeche. Poore poster mein [[sirf 2 fonts]].",
+      "class": "",
+      "style": "--prog:75.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S5}\"></div><div class=\"ring\" style=\"left:358.14814814814815px;top:463.333px;width:363.7037037037037px;height:85.18518518518518px\"></div><div class=\"ring\" style=\"left:423.3333333333333px;top:661.852px;width:233.33333333333331px;height:58.51851851851852px\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide06.png"
+    },
+    {
+      "index": 7,
+      "topic_tag": "STEP 6/6",
+      "headline": "Date, address, number ek line mein.",
+      "caption": "Customer ko dhoondhna na pade. Decoration sabse last, aur [[sirf ek diya]].",
+      "class": "",
+      "style": "--prog:87.5%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:420px;width:640px;height:800px\"><img src=\"{S6}\"></div><div class=\"ring\" style=\"left:310.74074074074076px;top:1153.7px;width:458.5185185185185px;height:52.59259259259259px\"></div><div class=\"ring\" style=\"left:695.9259259259259px;top:1061.85px;width:91.11111111111111px;height:91.11111111111111px\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide07.png"
+    },
+    {
+      "index": 8,
+      "topic_tag": "",
+      "headline": "Ab tumhari baari.",
+      "caption": "Comment [[DIWALI]] aur main is poster ka Canva template DM kar dunga.",
+      "class": "",
+      "style": "--prog:100.0%",
+      "content": {
+        "type": "html",
+        "html": "<div class=\"poster\" style=\"left:220px;top:330px;width:640px;height:800px\"><img src=\"{S6}\"></div>",
+        "images": {
+          "S1": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage1.png",
+          "S2": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage2.png",
+          "S3": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage3.png",
+          "S4": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage4.png",
+          "S5": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage5.png",
+          "S6": "runs/20261029-155345-diwali-poster-build-step-by-step/media/stage6.png"
+        }
+      },
+      "bg_file": null,
+      "out_file": "carousel/runs/20261029-155345-diwali-poster-build-step-by-step/slides/slide08.png"
+    }
+  ],
+  "template": "template-build.html"
+}

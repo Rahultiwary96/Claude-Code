@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800;900&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* The demo poster for the "build it slide by slide" carousel.
+     ?stage=N (1-6) shows the poster as it looks after step N. Two fonts, two colours. */
+  :root{--maroon:#660b16;--gold:#E6B94F;--cream:#F8EEDC}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px}
+  .poster{position:relative;width:1080px;height:1350px;overflow:hidden;background:#fff;font-family:'Poppins',sans-serif}
+  .s2 .poster,.s3 .poster,.s4 .poster,.s5 .poster,.s6 .poster{background:radial-gradient(ellipse 85% 75% at 50% 62%,var(--maroon) 55%,#640b17 100%)}
+  .el{position:absolute;left:0;right:0;text-align:center;display:none}
+  .photo{left:170px;right:auto;top:520px;width:740px;height:740px;
+         -webkit-mask-image:linear-gradient(to right,transparent,#000 9%,#000 91%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);-webkit-mask-composite:source-in;mask-image:linear-gradient(to right,transparent,#000 9%,#000 91%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);mask-composite:intersect}
+  .photo img{width:100%;height:100%;object-fit:cover}
+  .shop{top:96px;color:var(--cream);font-weight:600;font-size:26px;letter-spacing:.32em}
+  .sale{top:150px;color:var(--gold);font-weight:600;font-size:30px;letter-spacing:.4em}
+  .offer{top:196px;color:var(--gold);font-family:'Playfair Display',serif;font-weight:900;font-size:212px;line-height:1;letter-spacing:-.01em}
+  .sub{top:428px;color:var(--cream);font-weight:400;font-size:42px}
+  .info{top:1262px;color:var(--cream);font-weight:500;font-size:28px;letter-spacing:.02em}
+  .info b{color:var(--gold);font-weight:600;padding:0 14px}
+  .diya{left:auto;right:150px;top:1100px;width:120px;height:120px}
+  .s3 .photo,.s4 .photo,.s5 .photo,.s6 .photo{display:block}
+  .s4 .offer,.s5 .offer,.s6 .offer{display:block}
+  .s5 .shop,.s5 .sale,.s5 .sub,.s6 .shop,.s6 .sale,.s6 .sub{display:block}
+  .s6 .info,.s6 .diya{display:block}
+</style>
+</head>
+<body>
+<div id="root">
+  <div class="poster">
+    <div class="el photo"><img src="__PHOTO__" alt=""></div>
+    <div class="el shop">GUPTA MISHTHAN BHANDAR</div>
+    <div class="el sale">DIWALI SALE</div>
+    <div class="el offer">20% OFF</div>
+    <div class="el sub">saari mithai par</div>
+    <div class="el info">1 – 8 Nov<b>·</b>Main Market, Sector 9<b>·</b>98XXX 00000</div>
+    <svg class="el diya" viewBox="0 0 100 100" aria-hidden="true">
+      <defs><radialGradient id="g"><stop offset="0" stop-color="#FFD98A" stop-opacity=".9"/><stop offset="1" stop-color="#FFD98A" stop-opacity="0"/></radialGradient></defs>
+      <circle cx="50" cy="34" r="30" fill="url(#g)"/>
+      <path d="M50 10 C58 24 60 32 50 46 C40 32 42 24 50 10 Z" fill="#FFC94A"/>
+      <path d="M50 22 C54 29 55 34 50 41 C45 34 46 29 50 22 Z" fill="#FFF3D0"/>
+      <path d="M14 52 H86 C84 72 68 84 50 84 C32 84 16 72 14 52 Z" fill="#C8642F"/>
+      <path d="M14 52 H86" stroke="#E6B94F" stroke-width="4"/>
+    </svg>
+  </div>
+</div>
+<script>
+  var st=(new URLSearchParams(location.search)).get('stage')||'6';
+  document.getElementById('root').className='s'+st;
+</script>
+</body>
+</html>

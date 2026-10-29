@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* "Build it slide by slide" carousel: an editor-like workspace, the poster stage in a FIXED box
+     (same spot every slide, so swiping plays like a build), a step pill and a progress bar. */
+  :root{--ws:#ECE7DF;--ink:#1A1A1A;--yellow:#F5C518;--pad:56px;--px:220px;--py:470px;--pw:640px}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:100vw;height:100vh}
+  .stage{position:relative;width:100vw;height:100vh;overflow:hidden;font-family:'Poppins','Noto Color Emoji',sans-serif;color:var(--ink);
+    background-color:var(--ws);background-image:radial-gradient(rgba(26,26,26,.13) 1.4px,transparent 1.6px);background-size:28px 28px}
+  .pill{position:absolute;top:var(--pad);left:var(--pad);background:var(--yellow);font-weight:800;font-size:24px;letter-spacing:.12em;
+        padding:9px 22px;border-radius:999px}
+  .top{position:absolute;left:var(--pad);right:var(--pad);top:124px}
+  .head{font-weight:700;font-size:var(--fs,54px);line-height:1.14;letter-spacing:-.01em}
+  .sub{font-weight:400;font-size:31px;line-height:1.36;color:#3f3f3f;margin-top:14px}
+  .sub b{font-weight:600;color:var(--ink);background:rgba(245,197,24,.55);padding:0 6px;border-radius:4px}
+  .poster{position:absolute;left:var(--px);top:var(--py);width:var(--pw);height:calc(var(--pw) * 1.25);
+          box-shadow:0 24px 60px rgba(26,26,26,.22),0 4px 12px rgba(26,26,26,.12);border-radius:4px;overflow:hidden;background:#fff}
+  .poster img{display:block;width:100%;height:100%}
+  .ring{position:absolute;border:5px solid var(--yellow);border-radius:14px;box-shadow:0 0 0 4px rgba(26,26,26,.85);z-index:5}
+  .tag{position:absolute;background:var(--ink);color:#fff;font-weight:600;font-size:22px;padding:6px 14px;border-radius:999px;z-index:6;white-space:nowrap}
+  .handle{position:absolute;right:var(--pad);bottom:34px;font-weight:600;font-size:21px;color:#5c5c5c}
+  .progress{position:absolute;left:0;right:0;bottom:0;height:12px;background:rgba(26,26,26,.1)}
+  .progress i{display:block;height:100%;width:var(--prog,12.5%);background:var(--yellow)}
+  .emoji{font-family:'Noto Color Emoji'}
+  [data-optional].empty{display:none}
+</style>
+</head>
+<body>
+  <div class="stage __SLIDECLASS__" style="__STAGESTYLE__">
+    <div class="pill" data-optional>__TOPIC_TAG__</div>
+    <div class="top">
+      <div class="head" data-optional>__HEADLINE__</div>
+      <div class="sub" data-optional>__CAPTION__</div>
+    </div>
+    __CONTENT__
+    <div class="handle">__HANDLE__</div>
+    <div class="progress"><i></i></div>
+  </div>
+  <script>
+    document.querySelectorAll('[data-optional]').forEach(function(el){ if(!el.textContent.trim()) el.classList.add('empty') });
+    // allow <b> highlight in the sub line (copy is escaped by the renderer)
+    document.querySelectorAll('.sub').forEach(function(el){ el.innerHTML = el.innerHTML.replace(/\[\[(.+?)\]\]/g,'<b>$1</b>') });
+  </script>
+</body>
+</html>
