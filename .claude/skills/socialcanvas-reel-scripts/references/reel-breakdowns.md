@@ -273,3 +273,22 @@ Frames at 0.1, 0.8, 1.6 and 2.5s for each of the last 24 reels (21 Sep to 29 Oct
 - Default opening: split screen, with the result, the viral clip or the before/after on top, and Rahul (green screen) reacting or explaining below. Use it as the channel's repeatable format.
 - Rahul talking alone to camera only after the first 3 seconds, or in stories for followers.
 - Never open on a black frame or a baked-in cover frame.
+
+## "Hooks don't matter": attention anchors (https://www.instagram.com/reel/De-lMr_vQyD/, analysed 29 Oct 2026)
+
+56s talking-to-camera teaching reel. A creator in a cap stands at a whiteboard screen holding a mic. Creator handle not confirmed; credit from the post when reusing.
+
+### How it's built
+- 0–3s: contrarian line "What these gurus don't want you to know is that hooks don't matter", with a big red box "HOOKS DON'T MATTER" over a board showing famous creators' faces. He is never alone on screen: board, faces and text give the eye something besides him.
+- 3–10s: the real claim. What matters is the line right after the hook, an "attention anchor": a seed of curiosity that makes swiping away feel costly.
+- Two named anchors, each with one example written on the board:
+  1. **Stakes**: what the viewer gains or loses by watching. "Instagram just launched a new feature, and if you don't turn it on, you could be getting shadowbanned."
+  2. **Sequence framing**: tell them something important comes later. "Never turn on your AC without checking these two settings. If you miss the second one, you could destroy your AC unit."
+- Constant movement: walking, pointing at the board, cut-ins to the board full screen. Word-by-word captions low in frame.
+- CTA: comment "100", drawn on the board.
+
+### How it applies here
+- Add one anchor in the 3 to 6 second window of every script, after the hook and before the steps. It works with Hook Master's lock-in stage.
+- **Stakes for this audience:** a real loss or gain tied to the tool or the season. Example: "Aur agar prompt mein product ka naam quotes mein nahi likha, to poster pe text bigad jayega." Only use stakes that are true. Never invent bans, penalties or "shadowban" claims (section 7).
+- **Sequence framing:** "Teen steps hain, aur teesra wala sabse zaroori hai." Then actually make the last step the one that matters, and label the steps on screen.
+- Matches the opening-format finding: a talking head works when the frame also shows something (board, result, text). Rahul alone on a plain wall does not.
